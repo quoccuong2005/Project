@@ -1,0 +1,85 @@
+{
+  "vehicles": [
+    {
+      "id": "1",
+      "MaXe": "B23DCC006",
+      "TenXe": "Toyota Camry",
+      "HangXe": "Toyota",
+      "NamSanXuat": "2020",
+      "GiaBan": "30000",
+      "LoaiXe": "Sedan"
+    },
+    {
+      "id": "2",
+      "MaXe": "B23DCC154",
+      "TenXe": "Honda Civic",
+      "HangXe": "Honda",
+      "NamSanXuat": "2019",
+      "GiaBan": "25000",
+      "LoaiXe": "Sedan"
+    },
+    {
+      "id": null,
+      "MaXe": "B23DCC006",
+      "TenXe": "Toyota Camry",
+      "HangXe": "Toyota",
+      "NamSanXuat": "2020",
+      "GiaBan": "30000",
+      "LoaiXe": "Sedan",
+      "formData": {
+        "id": null,
+        "MaXe": "B23DCC006",
+        "TenXe": "Toyota Camry",
+        "HangXe": "Toyota",
+        "NamSanXuat": "2020",
+        "GiaBan": "30000",
+        "LoaiXe": "",
+        "formData": {
+          "id": null,
+          "MaXe": "B23DCC006",
+          "TenXe": "Toyota Camry",
+          "HangXe": "Toyota",
+          "NamSanXuat": "2020",
+          "GiaBan": "",
+          "LoaiXe": "",
+          "formData": {
+            "id": null,
+            "MaXe": "B23DCC006",
+            "TenXe": "Toyota Camry",
+            "HangXe": "Toyota",
+            "NamSanXuat": "",
+            "GiaBan": "",
+            "LoaiXe": "",
+            "formData": {
+              "id": null,
+              "MaXe": "B23DCC006",
+              "TenXe": "Toyota Camry",
+              "HangXe": "",
+              "NamSanXuat": "",
+              "GiaBan": "",
+              "LoaiXe": "",
+              "formData": {
+                "id": null,
+                "MaXe": "B23DCC006",
+                "TenXe": "",
+                "HangXe": "",
+                "NamSanXuat": "",
+                "GiaBan": "",
+                "LoaiXe": "",
+                "formData": {
+                  "id": "",
+                  "MaXe": "",
+                  "TenXe": "",
+                  "HangXe": "",
+                  "NamSanXuat": "",
+                  "GiaBan": "",
+                  "LoaiXe": ""
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}
